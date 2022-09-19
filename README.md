@@ -1,12 +1,13 @@
 # Pride flag
-Our Pride flag combines over 30 LGBTQIA+ community flags in a single powerful graphic, evoking a sense of power and unity. This flag was first used during Microsoft's Pride campaign in 2022. Following popular demand, we're making it availaible for everyone with a CC-BY-4.O license. Make it yours.
+Our Pride flag combines over 30 LGBTQIA+ community flags in a single powerful graphic, evoking a sense of power and unity. This flag was first used during Microsoft's Pride campaign in 2022. Following popular demand, we're making it and all the source files availaible for everyone to use, add and build on. There's a few versions, plus individual flags that you can use and edit. Make it yours.
+
+Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/) 
 
 <img width="965" alt="Flag_small" src="https://user-images.githubusercontent.com/113071293/191126608-1b864182-7b23-4344-ac7e-4e6cba133d50.png">
 
-# Contributing
+# Make it yours
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
+There's hundreds of community flags and new ones are added all the time. This project welcomes your contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -16,7 +17,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 # Contact
 Please feel free to open a GitHub issue and assign to the following points of contact with questions or requests.
 
-- Aleksey Fedorov (@alekseyf) - Design
+- [Aleksey Fedorov](https://github.com/alekseyfv) - Design
 
 # Legal Notices
 
