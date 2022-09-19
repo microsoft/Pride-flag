@@ -1,5 +1,5 @@
 # Pride flag
-Our Pride flag combines over 30 LGBTQIA+ community flags in a single powerful graphic, evoking a sense of power and unity. This flag was first used during Microsoft's Pride campaign in 2022. Following popular demand, we're making it and all the source files availaible for everyone to use, add and build on. There's a few versions, plus individual flags that you can use and edit. Make it yours.
+Our Pride flag combines over 30 LGBTQIA+ community flags in a single powerful graphic, evoking a sense of power and unity. This flag was first used during Microsoft's Pride campaign in 2022. Following popular demand, we're making it and all the source files availaible for everyone to use, add to, and build on. There's a few versions, plus individual flags that you can use and edit. Make it yours.
 
 Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/) 
 
