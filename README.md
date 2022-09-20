@@ -21,6 +21,6 @@ Please feel free to open a GitHub issue and assign to the following points of co
 
 # License and legal stuff
 
-Microsoft and any contributors grant you a license to content in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the [LICENSE-CODE](LICENSE-CODE) file.
+Microsoft and any contributors grant you a license to content in this repository under the [Creative Commons Attribution 4.0 International Public License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the [LICENSE-CODE](LICENSE-CODE) file.
 
 Privacy information can be found at https://privacy.microsoft.com/en-us/
