@@ -21,6 +21,6 @@ Please feel free to open a GitHub issue and assign to the following points of co
 
 # License
 
-Microsoft and any contributors grant you a license to content in this repository under the [Creative Commons Attribution 4.0 International Public License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), see the [LICENSE](LICENSE) file.
+Microsoft and any contributors grant you a license to content in this repository under the [Creative Commons Attribution 4.0 International Public License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode), see the [LICENSE](LICENSE) file.
 
 Privacy information can be found at https://privacy.microsoft.com/en-us/
