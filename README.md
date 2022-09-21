@@ -1,9 +1,14 @@
 # Pride flag
-Solidarity, unity, intersectionality. These are the themes we reflect on in this Pride flag. It combines over 30 individual LGBTQIA+ communities' flags in a single powerful graphic. Inspired by the community response, we're making it availaible for everyone to use, add to, and build on. 
+Solidarity, unity, intersectionality. These are the themes we reflect on in this Pride flag. Created with and by the LGBTQIA+ people at Microsoft, it combines 40 individual LGBTQIA+ communities' flags in a single powerful graphic. Inspired by the public response, we're making it availaible for everyone to use, add to, and build on. 
 
 Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/) 
 
 <img width="965" alt="Flag_small" src="https://user-images.githubusercontent.com/113071293/191126608-1b864182-7b23-4344-ac7e-4e6cba133d50.png">
+
+# 40 community flags in one
+This flag combines 40 community flags in a single graphic. Here's the flags present on this image: Abrosexual, Aceflux, Agender, Ambiamorous, Androgynous, Aroace, Aroflux, Aromantic, Asexual, Bigender, Bisexual, Demifluid, Demigender, Demigirl, Demiromantic, Demisexual, Gay/MLM/Vinician, Genderfluid, Genderflux,  Genderqueer, Gender questioning, Graysexual, Intersex, Lesbian, Maverique, Neutrois, Nonbinary, Omnisexual, Pangender, Pansexual, Polyamorous, Polysexual, Transgender, Trigender, Two Spirit, Progress Pride, Queer, Unlabeled. 
+
+Learn more about this [design](https://medium.com/microsoft-design/pride-has-no-borders-2f1b81c5d951)
 
 # Make it yours
 
@@ -24,3 +29,5 @@ Please feel free to open a GitHub issue and assign to the following points of co
 Microsoft and any contributors grant you a license to content in this repository under the [Creative Commons Attribution 4.0 International Public License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode), see the [LICENSE](LICENSE) file.
 
 Privacy information can be found at https://privacy.microsoft.com/en-us/
+
+Progress Pride Flag ©quasar.digital LLC 2022. Polyamory Pride Flag by Molly Colleen Bennett Wilvich, CC BY-SA 4.0.
