@@ -1,5 +1,5 @@
 # Pride flag
-Power, unity, intersectionality. These are themes we reflected on as we created our Pride flag. It combines over 30 individual LGBTQIA+ community flags in a single powerful graphic, evoking a sense of power of combing together across groups to make collective change. This flag was first used during Microsoft's Pride campaign in 2022. Inspired by the community response, we're making it availaible for everyone to use, add to, and build on. Make it yours.
+Solidarity, unity, intersectionality. These are the themes we reflect on in this Pride flag. It combines over 30 individual LGBTQIA+ communities' flags in a single powerful graphic. Inspired by the community response, we're making it availaible for everyone to use, add to, and build on. 
 
 Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/) 
 
