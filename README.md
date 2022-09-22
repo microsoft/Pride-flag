@@ -5,8 +5,8 @@ Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/)
 
 ![Flag_preview_960x540](https://user-images.githubusercontent.com/113071293/191797913-c49cd0d2-1ae9-40d8-bbcd-8e19da9f0cbd.jpg)
 
-# 40 community flags in one
-This flag combines 40 community flags in a single graphic. Here's the flags present on this image: Abrosexual, Aceflux, Agender, Ambiamorous, Androgynous, Aroace, Aroflux, Aromantic, Asexual, Bigender, Bisexual, Demifluid, Demigender, Demigirl, Demiromantic, Demisexual, Gay/MLM/Vinician, Genderfluid, Genderflux,  Genderqueer, Gender questioning, Graysexual, Intersex, Lesbian, Maverique, Neutrois, Nonbinary, Omnisexual, Pangender, Pansexual, Polyamorous, Polysexual, Transgender, Trigender, Two Spirit, Progress Pride, Queer, Unlabeled. 
+# Unity
+This flag combines 40 LGBTQIA+ flags in a single graphic. Here's the flags present on this image: Abrosexual, Aceflux, Agender, Ambiamorous, Androgynous, Aroace, Aroflux, Aromantic, Asexual, Bigender, Bisexual, Demifluid, Demigender, Demigirl, Demiromantic, Demisexual, Gay/MLM/Vinician, Genderfluid, Genderflux,  Genderqueer, Gender questioning, Graysexual, Intersex, Lesbian, Maverique, Neutrois, Nonbinary, Omnisexual, Pangender, Pansexual, Polyamorous, Polysexual, Transgender, Trigender, Two Spirit, Progress Pride, Queer, Unlabeled. 
 
 Learn more about this [design](https://medium.com/microsoft-design/pride-has-no-borders-2f1b81c5d951)
 
