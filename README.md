@@ -18,4 +18,4 @@ Please feel free to open a GitHub issue and assign to [Aleksey Fedorov](https://
 
 # License
 
-Microsoft and any contributors grant you a license to content in this repository under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), see the [LICENSE](LICENSE) file. Privacy information can be found at https://privacy.microsoft.com/en-us/. Progress Pride Flag ©quasar.digital LLC 2022. Polyamory Pride Flag by Molly Colleen Bennett Wilvich, CC BY-SA 4.0.
+Microsoft and any contributors grant you a license to content in this repository under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), see the [LICENSE](LICENSE) file. Privacy information can be found at https://privacy.microsoft.com/en-us/. Progress Pride Flag ©quasar.digital LLC 2022. Polyamory Pride Flag by Molly Colleen Bennett Wilvich.
