@@ -6,7 +6,7 @@ Created by the LGBTQIA+ people at Microsoft, this flag represents 40 different i
 # An Emblem of Unity
 This flag combines 40 different flags from LGBTQIA+ communities around the world, including: Abrosexual, Aceflux, Agender, Ambiamorous, Androgynous, Aroace, Aroflux, Aromantic, Asexual, Bigender, Bisexual, Demifluid, Demigender, Demigirl, Demiromantic, Demisexual, Gay/MLM/Vinician, Genderfluid, Genderflux,  Genderqueer, Gender questioning, Graysexual, Intersex, Lesbian, Maverique, Neutrois, Nonbinary, Omnisexual, Pangender, Pansexual, Polyamorous, Polysexual, Transgender, Trigender, Two Spirit, Progress Pride, Queer, Unlabeled. 
 
-Learn more about this [design](https://medium.com/microsoft-design/pride-has-no-borders-2f1b81c5d951)
+Learn more about this [design](https://medium.com/microsoft-design/pride-should-be-open-source-e4eb50fae2f9)
 
 # Make it yours
 
@@ -15,6 +15,8 @@ We welcome your contributions to this project! With hundreds of community flags 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 Please feel free to open a GitHub issue and assign to [Aleksey Fedorov](https://github.com/alekseyfv) with questions or requests.
+
+We also invite you to explore these assets on [Figma](https://www.figma.com/community/file/1158808367098375909).
 
 # License
 
