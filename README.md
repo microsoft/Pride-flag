@@ -1,5 +1,5 @@
-# A Banner of Pride
-Created by the LGBTQIA+ people at Microsoft, this flag represents 40 different individual LGBTQIA+ communities—with one powerful graphic that reflects a message of unity, solidarity and intersectionality. We’re making it available here on GitHub for everyone to use and build on. Because Pride should be open source. Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/) 
+# Queer Theory Flag
+Created by the Queer Theorists at Microsoft, this flag represents the deconstruction of the pride flag. Now that the pride flag has gone mainstream and been accepted within society, we must deconstruct it.
 
 ![Flag_preview_960x540](https://user-images.githubusercontent.com/113071293/191797913-c49cd0d2-1ae9-40d8-bbcd-8e19da9f0cbd.jpg)
 
