@@ -14,8 +14,6 @@ We welcome your contributions to this project! With hundreds of community flags 
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-Please feel free to open a GitHub issue and assign to [Aleksey Fedorov](https://github.com/alekseyfv) with questions or requests.
-
 We also invite you to explore these assets on [Figma](https://www.figma.com/community/file/1158808367098375909).
 
 # License
