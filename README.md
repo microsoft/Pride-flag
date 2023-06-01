@@ -28,7 +28,8 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 We also invite you to explore these assets on [Figma](https://www.figma.com/community/file/1158808367098375909).
 
-![All flags](https://github.com/microsoft/Pride-flag/assets/113071293/4f684ae7-dd30-412f-bf46-3a93aa5017b1)
+![All flags](https://github.com/microsoft/Pride-flag/assets/113071293/4d9ba032-4888-43a4-8cc8-f6852ca5d634)
+
 
 
 # License
