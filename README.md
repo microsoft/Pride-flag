@@ -19,18 +19,17 @@ Learn more about our approach to this [design](https://medium.com/microsoft-desi
 
 ![FY23Pride-Open_Source_PrideFlag_Cropped_without_Ally_1280x720](https://github.com/microsoft/Pride-flag/assets/113071293/fced6e62-72cb-4d3c-b92f-dbcb76f95d31)
 
-
 # Make it yours
 
 We welcome your contributions to this project! With hundreds of community flags already available—and more being added every day—we’re excited for people to keep creating more. Please note that most contributions require you to agree to a Contribution License Agreement (CLA.) Visit https://cla.opensource.microsoft.com.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-We also invite you to explore these assets on [Figma](https://www.figma.com/community/file/1158808367098375909).
+# Updates at a glance
 
-![All flags](https://github.com/microsoft/Pride-flag/assets/113071293/4d9ba032-4888-43a4-8cc8-f6852ca5d634)
+This update features new flags and new layouts. Plus, current flag assets are available as well.
 
-
+![flags compare](https://github.com/microsoft/Pride-flag/assets/113071293/1c76fc5e-6a32-42f0-bedc-d2902866fafd)
 
 # License
 
