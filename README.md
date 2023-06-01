@@ -13,7 +13,7 @@ Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/)
 # An Emblem of Unity
 This year’s design builds on our earlier release and adds new LGBTQIA+ flags and layouts.
 
-The following flags are represented in this graphic: A-spec, Abrosexual, Aceflux, Achillean, Asexual, Bisexual, Demisexual, Diamoric, Gay / MLM, Graysexual, Lesbian, Multisexual, Omnisexual, Pansexual, Polysexual, Queer, Sapphic, Unlabeled, Agender, Bigender, Demiboy, Demifluid, Demigender, Demigirl, Gender questioning, Genderfluid, Genderflux, Genderqueer, Maverique, Multigender, Neutrois, Non binary, Pangender, Transfeminine, Transmasculine, Transneutral, Trigender, Transgender, Ambiamorous, Aroace, Aroflux, Aromantic, Demiromantic, Polyamorous, Androgynous, Ally, Pride, Two Spirits and Intersex.
+The following flags are represented in this graphic: A-spec, Abrosexual, Aceflux, Achillean, Agender, Ally, Ambiamorous, Androgynous, Aroace, Aroflux, Abrosexual, Aceflux, Achillean, Agender, Ally, Ambiamorous, Androgynous, Aroace, Aroflux, Aromantic, Asexual, A-spec, Bigender, Bisexual, Demiboy, Demifluid, Demigender, Demigirl, Demiromantic, Demisexual, Diamoric, Gay / MLM, Gender questioning, Genderfluid, Genderflux, Genderqueer, Graysexual, Intersex , Lesbian , Maverique , Multigender , Multisexual , Neutrois , Non binary , Omnisexual , Pangender , Pansexual , Polyamorous , Polysexual , Pride , Queer , Sapphic , Transfeminine , Transgender , Transmasculine , Transneutral , Trigender, Two Spirits and Unlabeled.
 
 Learn more about our approach to this [design](https://medium.com/microsoft-design/pride-should-be-open-source-e4eb50fae2f9)
 
