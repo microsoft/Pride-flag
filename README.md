@@ -1,5 +1,5 @@
 # A Banner of Pride
-Last year, we open-sourced our Pride flag design representing 40 LGBTQIA+ communities. Our latest update reflects almost 50 identities and comes with a new side layout. Plus, we are [open-sourcing the entire Pride design](https://github.com/microsoft/Pride) and invite you to remix, share and make more Pride.
+Last year, we open-sourced our Pride flag design representing 40 LGBTQIA+ communities. Our latest update reflects almost 50 identities and comes with a new fan-requested side layout. Plus, we are [open-sourcing the entire Pride design](https://github.com/microsoft/Pride) and invite you to remix, share and make more Pride.
 
 Created by the LGBTQIA+ people at Microsoft, this year’s flag design represents almost 50 individual LGBTQIA+ communities—with one powerful graphic that reflects a message of unity, solidarity, and intersectionality. It celebrates a community that’s wide, global, and ever-growing. We’re making it available here on GitHub for everyone to use, share and build on. Because Pride should be open source. 
 
@@ -11,7 +11,7 @@ Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/)
 
 
 # An Emblem of Unity
-This year’s design builds on our earlier release and adds new LGBTQIA+ flags. Plus, it comes in a new fan-requested side orientation. 
+This year’s design builds on our earlier release and adds new LGBTQIA+ flags and layouts.
 
 The following flags are represented in this graphic: A-spec, Abrosexual, Aceflux, Achillean, Asexual, Bisexual, Demisexual, Diamoric, Gay / MLM, Graysexual, Lesbian, Multisexual, Omnisexual, Pansexual, Polysexual, Queer, Sapphic, Unlabeled, Agender, Bigender, Demiboy, Demifluid, Demigender, Demigirl, Gender questioning, Genderfluid, Genderflux, Genderqueer, Maverique, Multigender, Neutrois, Non binary, Pangender, Transfeminine, Transmasculine, Transneutral, Trigender, Transgender, Ambiamorous, Aroace, Aroflux, Aromantic, Demiromantic, Polyamorous, Androgynous, Ally, Pride, Two Spirits and Intersex.
 
