@@ -15,7 +15,9 @@ This year’s design builds on our earlier release and adds new LGBTQIA+ flags a
 
 The following flags are represented in this graphic: A-spec, Abrosexual, Aceflux, Achillean, Agender, Ally, Ambiamorous, Androgynous, Aroace, Aroflux, Abrosexual, Aceflux, Achillean, Agender, Ally, Ambiamorous, Androgynous, Aroace, Aroflux, Aromantic, Asexual, A-spec, Bigender, Bisexual, Demiboy, Demifluid, Demigender, Demigirl, Demiromantic, Demisexual, Diamoric, Gay / MLM, Gender questioning, Genderfluid, Genderflux, Genderqueer, Graysexual, Intersex , Lesbian , Maverique , Multigender , Multisexual , Neutrois , Non binary , Omnisexual , Pangender , Pansexual , Polyamorous , Polysexual , Pride , Queer , Sapphic , Transfeminine , Transgender , Transmasculine , Transneutral , Trigender, Two Spirits and Unlabeled.
 
-Learn more about our approach to this [design](https://medium.com/microsoft-design/pride-should-be-open-source-e4eb50fae2f9)
+Learn more about our approach to this [design](https://medium.com/microsoft-design/pride-should-be-open-source-e4eb50fae2f9).
+
+Get the assets here and on [Figma](https://www.figma.com/community/file/1158808367098375909).
 
 ![FY23Pride-Open_Source_PrideFlag_Cropped_without_Ally_1280x720](https://github.com/microsoft/Pride-flag/assets/113071293/fced6e62-72cb-4d3c-b92f-dbcb76f95d31)
 
