@@ -5,7 +5,8 @@ Created by the LGBTQIA+ people, this year’s flag design represents 74 individu
 
 Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/) 
 
-![image](https://github.com/microsoft/Pride-flag/assets/113071293/ba01faaa-a165-4244-a4d7-024f78cbc648)
+![big flag](https://github.com/microsoft/Pride-flag/assets/113071293/e8b44208-8d09-4344-be25-52f1932f591d)
+
 
 
 
@@ -33,7 +34,9 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 This update features new flags and new layouts. Plus, current flag assets are available as well.
 
-![image](https://github.com/microsoft/Pride-flag/assets/113071293/65a2e35f-14da-44f0-83bf-9d3795f5f1a3)
+![image](https://github.com/microsoft/Pride-flag/assets/113071293/68ea0e4c-fb90-451c-8336-8fba1c49afcb)
+
+
 
 
 # License
