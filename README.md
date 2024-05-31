@@ -19,7 +19,8 @@ Learn more about our approach to [design](https://medium.com/microsoft-design/pr
 
 Get the assets here and on [Figma](https://www.figma.com/community/file/1158808367098375909).
 
-![image](https://github.com/microsoft/Pride-flag/assets/113071293/fd3600af-8177-4e45-944b-77d91c8bfd34)
+![Pride Open Source Flag-2048x2048](https://github.com/microsoft/Pride-flag/assets/113071293/0a8f6779-f72c-4327-a87c-2f23fcafc478)
+
 
 
 # Make it yours
