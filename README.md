@@ -1,25 +1,26 @@
 # A Banner of Pride
-Last year, we open-sourced our Pride flag design representing 40 LGBTQIA+ communities. Our latest update reflects almost 50 identities and comes with a new fan-requested side layout. Plus, we are [open-sourcing the entire Pride design](https://github.com/microsoft/Pride) and invite you to remix, share and make more Pride.
+In 2022, we open-sourced our Pride flag design representing 40 LGBTQIA+ communities. Our latest update reflects 74 identities. Plus, we are [open-sourcing the entire Pride design](https://github.com/microsoft/Pride) and invite you to remix, share and make more Pride.
 
-Created by the LGBTQIA+ people at Microsoft, this year’s flag design represents almost 50 individual LGBTQIA+ communities—with one powerful graphic that reflects a message of unity, solidarity, and intersectionality. It celebrates a community that’s wide, global, and ever-growing. We’re making it available here on GitHub for everyone to use, share and build on. Because Pride should be open source. 
+Created by the LGBTQIA+ people, this year’s flag design represents 74 individual communities—with one powerful graphic that reflects a message of unity, solidarity, and intersectionality. It celebrates a community that’s wide, global, and ever-growing. We’re making it available here on GitHub for everyone to use, share and build on. Because Pride should be open source.
 
 Learn more about [Pride at Microsoft.](https://unlocked.microsoft.com/pride/) 
 
+![image](https://github.com/microsoft/Pride-flag/assets/113071293/ba01faaa-a165-4244-a4d7-024f78cbc648)
 
-<img width="1004" alt="Screenshot 2023-05-31 175847" src="https://github.com/microsoft/Pride-flag/assets/113071293/5106a2ba-1444-48aa-8b44-1ec3f6aad4ed">
 
 
 
 # An Emblem of Unity
 This year’s design builds on our earlier release and adds new LGBTQIA+ flags and layouts.
 
-The following flags are represented in this graphic: A-spec, Abrosexual, Aceflux, Achillean, Agender, Ally, Ambiamorous, Androgynous, Aroace, Aroflux, Aromantic, Asexual, Bigender, Bisexual, Demiboy, Demifluid, Demigender, Demigirl, Demiromantic, Demisexual, Diamoric, Gay / MLM, Gender questioning, Genderfluid, Genderflux, Genderqueer, Graysexual, Intersex, Lesbian, Maverique, Multigender, Multisexual, Neutrois, Non binary, Omnisexual, Pangender, Pansexual, Polyamorous, Polysexual, Pride, Queer, Sapphic, Transfeminine, Transgender, Transmasculine, Transneutral, Trigender, Two Spirits and Unlabeled.
+The following flags are represented in this graphic: Abrosexual, Abroromantic, Aceflux, Achillean, Agender, Ally, Ambiamorous, Androgynous, Androromantic, Androsexual, Aproagender, Aroace, Aroflux, Aromantic, Asexual, A-Spec, Bigender, Biromantic, Bisexual, Ceteroromantic, Ceterosexual, Demiboy, Demifluid, Demigender, Demigirl, Demiromantic, Demisexual, Diamoric, Egogender, Frayromantic, Gay men, Genderfluid, Genderflux, Gender neutral, Gender questioning, Genderqueer, Gray-asexual, Graygender, Gyneromantic, Gynesexual, Hijara, Intergender, Intersex, Lesbian, Maverique, MOGAI, Multigender, Multisexual, Neurogender, Neutrois, Non-binary, Omniromantic, Omnisexual, Pangender, Panromantic, Pansexual, Polyamorous, Polygender, Polyromantic, Polysexual, Pomosexual, Pride (LGBTQIA+), Queer, Sapphic, Straight queer, Transfeminine, Transgender, Transmasculine, Transneutral, Trigender, Two-spirit, Unlabeled, Waria, Xenogender.
 
 Learn more about our approach to this [design](https://medium.com/microsoft-design/pride-should-be-open-source-e4eb50fae2f9).
 
 Get the assets here and on [Figma](https://www.figma.com/community/file/1158808367098375909).
 
-![FY23Pride-Open_Source_PrideFlag_Cropped_without_Ally_1280x720](https://github.com/microsoft/Pride-flag/assets/113071293/fced6e62-72cb-4d3c-b92f-dbcb76f95d31)
+![image](https://github.com/microsoft/Pride-flag/assets/113071293/fd3600af-8177-4e45-944b-77d91c8bfd34)
+
 
 # Make it yours
 
@@ -31,7 +32,8 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 This update features new flags and new layouts. Plus, current flag assets are available as well.
 
-![flags compare](https://github.com/microsoft/Pride-flag/assets/113071293/1c76fc5e-6a32-42f0-bedc-d2902866fafd)
+![image](https://github.com/microsoft/Pride-flag/assets/113071293/65a2e35f-14da-44f0-83bf-9d3795f5f1a3)
+
 
 # License
 
