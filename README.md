@@ -30,14 +30,6 @@ We welcome your contributions to this project! With hundreds of community flags 
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Updates at a glance
-
-This update features new flags and new layouts. Plus, current flag assets are available as well.
-
-![image](https://github.com/microsoft/Pride-flag/assets/113071293/68ea0e4c-fb90-451c-8336-8fba1c49afcb)
-
-
-
 
 # License
 
